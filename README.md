@@ -19,7 +19,7 @@ THEN that will be shown on the page, and added to their transaction history when
     WHEN the user reestablishes an internet connection
     THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
     
-    # Tools
+# Tools
 [IndexedDB]()
 
 [NoSQL]()
